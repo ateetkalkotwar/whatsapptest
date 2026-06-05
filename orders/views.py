@@ -37,9 +37,9 @@ Amount:
 ₹{order.amount}
 """
 
-            send_whatsapp_message(
-                message
-            )
+            # send_whatsapp_message(
+            #     message
+            # )
 
             return render(
                 request,
